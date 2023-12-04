@@ -1,2 +1,3 @@
-# Buena suerte
-Resolviendo los conflictos
+# Prueba de SGE
+Fernando Bermeo
+Soy programador
